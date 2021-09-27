@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/BadCrabs/BadCrabs-tag.git"
   },
+  "scripts": {
+    "deploy": "npm publish"
+  },
   "author": "Bad Crabs",
   "license": "ISC",
   "bugs": {

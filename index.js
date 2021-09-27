@@ -1,4 +1,4 @@
-function tag() {
+function bc_tag() {
   console.log(`
 ▄▄▄▄·  ▄▄▄· ·▄▄▄▄       ▄▄· ▄▄▄   ▄▄▄· ▄▄▄▄· .▄▄ ·
 ▐█ ▀█▪▐█ ▀█ ██▪ ██     ▐█ ▌▪▀▄ █·▐█ ▀█ ▐█ ▀█▪▐█ ▀.
@@ -8,6 +8,6 @@ function tag() {
 `);
 }
 module.exports = {
-  tag,
+  bc_tag,
 };
-exports.tag = tag;
+exports.bc_tag = bc_tag;
