@@ -1,0 +1,16 @@
+{
+  "name": "@badcrabs/badcrabs-tag",
+  "version": "1.0.0",
+  "description": "Bad Crabs`s package for console tag",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadCrabs/BadCrabs-tag.git"
+  },
+  "author": "Bad Crabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadCrabs/BadCrabs-tag/issues"
+  },
+  "homepage": "https://github.com/BadCrabs/BadCrabs-tag#readme"
+}
